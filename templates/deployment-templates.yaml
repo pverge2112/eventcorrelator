@@ -139,10 +139,9 @@ parameters:
 - description: Git URL to the source code
   displayName: Git URL
   name: SOURCE_REPOSITORY_URL
-  value: http://gogs-ganck-cicd-tools.apps.demo.ocp.internal/ganck/eventcorrelator.git
+  value: https://github.com/chengkuangan/eventcorrelator.git
   required: true   
 - description: Maven Repo URL
   displayName: Maven Repo URL
   name: MAVEN_MIRROR_URL
-  value: http://nexus3-ganck-cicd-tools.apps.demo.ocp.internal/repository/maven-public/
   required: false  
