@@ -139,7 +139,7 @@ parameters:
 - description: Git URL to the source code
   displayName: Git URL
   name: SOURCE_REPOSITORY_URL
-  value: https://github.com/chengkuangan/eventcorrelator.git
+  value: https://github.com/pverge2112/eventcorrelator/eventcorrelator.git
   required: true   
 - description: Maven Repo URL
   displayName: Maven Repo URL
